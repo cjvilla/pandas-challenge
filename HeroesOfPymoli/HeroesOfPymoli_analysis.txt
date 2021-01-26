@@ -1,0 +1,7 @@
+Observable Trends
+
+1) Players betwen the ages of 20 - 24 years old make up 44.79% of players, which is the majority age demographic that plays Heroes of Pymoli. Players between the ages of 15 - 19 make up 18.58% of the player population and are the second largest player demographic. 
+
+2) The most popular item in the game is the Final Critic with a purchase count of 13. The purchase count was displayed in descending order. 
+
+3) The player with the highest purchase count was Lisosia93. The player had a purchase count of 5 and a total purchase value of $18.96. Total purchase value was displayed in a descending order. 
